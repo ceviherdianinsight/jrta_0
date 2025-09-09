@@ -1,1 +1,308 @@
 # jrta_0
+
+# learnforex_preschool
+
+## Level_1
+
+### 1. What is Forex?
+
+* What is Forex
+  - Forex = foreign exchange, the global market for trading currencies.
+  - Largest financial market (~$7.5 trillion daily volume).
+  - Trades are always in currency pairs (buy one, sell another).
+  - Spot forex (relevant to traders) ≈ $2 trillion/day.
+  - Retail traders = ~3–5% of daily volume.
+  - Market runs 24 hours, 5 days a week across global financial centers.
+  - Decentralized & OTC (no central exchange).
+  - Over 90% speculative trading (not physical exchange).
+  - Very high liquidity → easy trade execution.
+  - Advantages vs stocks: continuous trading, low costs, high liquidity, no short-selling restrictions, hard to manipulate.
+ 
+* What Is Traded In Forex?
+  - In forex, what’s traded is money itself (currencies).
+  - Trading means buying one currency and selling another at the same time.
+  - Currencies represent the economic value of countries (like owning a share in a nation’s economy).
+  - Exchange rates show how strong or weak one economy is relative to another.
+  - Profit comes from changes in these exchange rates (buy low, sell high).
+  - 8 Major: USD, EUR, JPY, GBP, CHF, CAD, AUD, NZD
+  - AUD, NZD, and CAD as “commodity currencies“.
+    
+* Buying And Selling Currency Pairs
+  - Forex trading = buy one currency, sell another (always in pairs).
+  - Trades are made through brokers/CFD providers.
+  - Currency pairs behave like a tug of war – price reflects relative strength.
+  - 3 types of pairs: Majors: include USD, Crosses (Minors): exclude USD, Exotics: one major + emerging market currency.
+  - Major pairs = most liquid and heavily traded.
+    
+* Forex Market Size And Liquidity
+  - The forex market is bigger than all stock, bond, and commodity markets combined.
+  - Daily forex turnover = trillions of USD, making it the most actively traded market.
+  - High liquidity means tight spreads (lower transaction costs for traders).
+  - Major pairs (like EUR/USD, USD/JPY, GBP/USD) are the most liquid.
+  - Exotic pairs (like USD/TRY, USD/THB) are less liquid → wider spreads, higher costs.=
+  - Liquidity is not constant → highest when London and New York sessions overlap.
+  - Thin liquidity periods (like holidays or after NY close) can cause spikes or gaps.
+  - For short-term traders (scalpers/day traders), liquidity is crucial to avoid slippage.
+  - The size and depth of the forex market make price manipulation by a single player very difficult (unlike some smaller markets).
+
+* How To Trade Forex-X
+  - Forex can be traded in several forms, not just spot trading.
+  - Main ways to trade forex:
+      - Spot FX (OTC) – direct buying/selling of currencies in real time.
+      - Currency Futures – exchange-traded contracts to buy/sell at a set price in the future.
+      - Currency Options – right (not obligation) to trade at a preset price before expiry.
+      - Currency ETFs – funds traded on stock exchanges giving currency exposure.
+      - Forex CFDs – contracts to speculate on price moves without owning currencies.
+      - Spread Betting – betting on price movements (available in limited regions like UK).
+   
+
+### 2. How Do You Trade Forex?
+
+* How to Make Money Trading Forex
+  - Forex trading = speculating on currency pairs (buy one, sell another).
+  - Profit comes from correctly predicting exchange rate movements.
+  - Always traded in pairs (e.g., EUR/USD).
+  - You can go long (buy) or go short (sell).
+  - Quotes include Bid, Ask, and Spread (broker’s profit).
+  - Retail traders don’t trade physical money, but speculative contracts.
+  - Most traders lose money (about 90%).
+  - Success requires:
+     - Education & knowledge of market.
+     - A clear trading plan.
+     - Strong risk management (risk small % per trade).
+     - Realistic expectations (no “get rich quick”).
+* Know When to Buy or Sell a Currency Pair
+  - Buy/Sell Decision → Based on economic conditions of the two currencies in a pair (fundamental analysis).
+  - Currency Pairs → Always traded in pairs (EUR/USD, GBP/USD, USD/JPY, USD/CHF).
+  - Trade in Lots:
+       - Micro lot = 1,000 units
+       - Mini lot = 10,000 units
+       - Standard lot = 100,000 units
+  - Margin & Leverage → Small deposit controls large position; leverage magnifies both profit and loss.
+  - Rollover (Swap) Fee → Charged/earned if a position is held overnight; depends on interest rate differences between currencies.
+  - Avoid Rollover → Close trades before broker cutoff (around 5 p.m. EST).
+* What is a Pip in Forex?
+  - Pip definition: Standardized unit of measurement to express the change in value between two currencies.
+  - Consistency: Pips create a universal way to discuss price moves, profit/loss, and spreads.
+  - Non-JPY pairs: Pip = 0.0001 (4th decimal place).
+  - JPY pairs: Pip = 0.01 (2nd decimal place).
+  - Pipette definition: 1/10 of a pip (fractional pip), shown in the 5th decimal (or 3rd for JPY).
+  - EUR/USD from 1.1050 → 1.1051 = 1 pip.
+  - GBP/USD from 1.30542 → 1.30543 = 1 pipette.
+  - 10 pipettes = 1 pip.
+  - To provide more accurate quotes.
+  - To offer tighter spreads (e.g., 1.6 pips instead of rounding to 2 pips).
+  - More precise measurement of gains/losses.
+  - Useful for short-term traders (scalpers).
+  - Common pitfall: Confusing pips with pipettes (e.g., 135 pipettes = 13.5 pips, not 135 pips).
+  - Pips = the universal forex measuring stick.
+  - Pipettes = decimal refinement for more precise trading.
+* What is a Lot in Forex?
+  - Lot = standardized trading size in forex.
+    - 1 Standard Lot = 100,000 units of base currency.
+    - Mini Lot = 10,000 units.
+    - Micro Lot = 1,000 units.
+    - Nano Lot = 100 units (rare).
+  - Leverage = allows traders to control a large position with a smaller amount of capital.
+    - Example: 50:1 leverage → controlling $50,000 with $1,000.
+    - Increases both potential profits and risks.
+  - Margin = the amount of money a trader needs to open/maintain a leveraged position.
+  - Profit and Loss (P/L) depends on:
+    - Position size (lots).
+    - Number of pips gained/lost.
+    - Value per pip (depends on lot size and currency pair).
+  - Risk: High leverage can quickly magnify losses as well as gains.
+  - Lot size + leverage + pip movement = determines overall P/L.
+* What is a Spread in Forex Trading?
+  - Spread Types:
+    - Fixed spread → Doesn’t change regardless of market conditions (usually from market maker brokers).
+    - Variable (floating) spread → Changes based on market liquidity and volatility (common in ECN/STP brokers).
+  - Major vs. Exotic Pairs:
+    - Major pairs (EUR/USD, GBP/USD, USD/JPY, etc.) → very tight spreads due to high liquidity.
+    - Exotic pairs (USD/TRY, USD/ZAR, etc.) → much wider spreads because of low liquidity and higher risk.
+  - News & Events: Spreads can widen sharply during big economic announcements (like NFP, CPI, interest rate decisions).
+  - Day Trading & Scalping: Traders who open many trades per day are more sensitive to spreads since it’s a frequent cost.
+  - Carry Trades: Spreads matter less compared to overnight swap/interest, but still add to entry/exit costs.
+  - Broker Transparency: Reputable brokers clearly show bid-ask prices and how spreads are applied.
+  - Spreads = hidden cost of trading and directly impact profitability, especially for short-term traders.
+* The Bid and Ask Price Explained
+  - Bid Price = price broker will buy base currency from you → you sell at this price.
+  - Ask Price (Offer) = price broker will sell base currency to you → you buy at this price.
+  - Displayed in platforms: “Sell” button = Bid, “Buy” button = Ask.
+  - Spread = Ask − Bid → your transaction cost and broker’s profit.
+  - Liquidity impact:
+      - Major pairs → tight spreads.
+      - Exotic pairs or volatile markets → wider spreads.
+  - Example: EUR/USD 1.10252 / 1.10264
+      - Bid = 1.10252 (Sell)
+      - Ask = 1.10264 (Buy)
+      - Spread = 1.2 pips
+      
+* Impress Your Date with Forex Lingo
+  - Major currencies = most traded and liquid; includes USD, EUR, JPY, GBP, CHF, CAD, AUD, NZD.
+  - Minor currencies = mid-tier economies (still traded but less liquid than majors).
+  - Exotic currencies = currencies from emerging or smaller economies; high volatility, wide spreads, higher risk
+  - Base currency = the first currency in a pair (e.g. USD in USD/CHF = how much CHF equals 1 USD).
+  - Quote currency = the second currency in the pair; used to express profit/loss.
+  - Pip = smallest standard change in a forex price (typically 0.0001, or 0.01 for JPY pairs).
+  - Pipette = fractional pip; one-tenth of a pip, used when quotes include a fifth decimal (e.g. 1.23456 where "6" is pipettes).
+  - Bid price = price at which broker will buy the base currency from you (you sell at this).
+  - Ask (Offer) price = price at which broker will sell the base currency to you (you buy at this).
+  - Spread = Ask − Bid; this difference is your trade transaction cost. E.g. USD/JPY 118.30/118.34 = 4 pips spread.
+  - Cross currency pair = pair that does not include USD, such as EUR/GBP or EUR/JPY; often costlier to trade due to lower liquidity.
+
+* Types of Forex Orders
+  - Market Order: Executes immediately at the best current price, fastest execution but no price control.
+  - Buy Limit / Sell Limit: Pending orders set to open long (buy) below the market or short (sell) above it, used when anticipating price retracement.
+  - Buy Stop / Sell Stop: Pending orders to open a trade when price moves beyond the current level (buy above, sell below), used for breakout strategies.
+  - Stop-Loss Order: Limits potential losses by exiting a position when price hits your defined threshold; becomes a market order when triggered.
+  - Stop-Limit Order: Triggered at a stop price, but only executes at or better than your specified limit price, combines control and activation.
+  - Trailing Stop Order: A dynamic stop-loss that moves with favorable price movement, locking in profits while limiting downside.
+  - Good-Till-Cancelled (GTC): Your order remains active indefinitely (or until filled/canceled), unlike day orders that expire at end of session.
+  - One-Cancels-Other (OCO) / One-Triggers-Other (OTO): Linked orders—triggering one automatically cancels the other, or one triggers secondary orders, used for combined entry/exit setups.
+  - Order selection impacts trade control, cost, and risk management. Choose wisely based on strategy and execution needs.
+  - Pending orders help automate entries/exits when you're away or focused elsewhere.
+  - Advanced options (OCO, OTO) streamline combined take-profit and stop-loss planning—but depend on broker support.
+
+
+ * Trading Order Types Cheat Sheet
+    - Market Order → Instant execution at current market price; fast but no price control (slippage risk).
+    - Limit Order → Buy below market / Sell above market; precise price control, but may not get filled.
+    - Stop Order (Buy Stop / Sell Stop) → Activated when price passes a set level; used for breakout strategies.
+    - Stop-Limit Order → Combines stop + limit; better price control but may not execute.
+    - Stop-Loss Order → Protects against losses by exiting at a predefined level.
+    - Trailing Stop → Dynamic stop-loss that moves with price to lock in profits.
+    - Good-Till-Cancelled (GTC) → Order remains active until executed or manually canceled.
+    - Day Order → Valid only for one trading day; cancels if not filled.
+    - One-Cancels-Other (OCO) → Two linked orders; filling one cancels the other.
+    - One-Triggers-Other (OTO) → Main order activates → triggers additional linked orders (e.g., entry triggers SL + TP).
+  
+  * Demo Trade Your Way to Success
+    - Demo trading = practice without risking real money.
+    - Only go live after proving consistent profitability.
+    - Focus on one major currency pair in demo phase.
+    - Trade demo for at least one month before live.
+    - Demo cannot replicate real emotions in trading.
+    - Start live with small positions to manage psychology.
+   
+  * Can You Get Rich By Trading Forex?
+    - Forex is a skill-based pursuit, not a shortcut to wealth. Even seasoned traders experience losses success requires years of practice and learning.
+    - No one becomes rich overnight in forex. It's not a get-rich-quick scheme, there are no shortcuts to sustainable success.
+    - Risk and realism are key. Aim for consistent profitability, proper risk management, and realistic goals rather than chasing massive returns.
+    - Demo trading is crucial. Build skills on a practice account first to find a trading method that works for you before trading live.
+    - Expect losses even professionals lose sometimes. Preparedness and emotional discipline are essential.
+    - Adequate capital matters. Many traders suggest starting with enough capital (e.g. several thousand dollars) to allow growth without excessive risk.
+    - Manage expectations. Unrealistic return goals lead to disappointment, trading success is gradual and strategic.
+    - Skill vs Luck: Forex success demands skill, not luck.
+    - Long-Term Perspective: Wealth in forex is built over time, not instantly.
+    - Capital Requirement: Start with sufficient funds $5K–$10K is often recommended.
+    - Risk Management: Focus on consistent gains, not risking everything.
+    - Practice First: Use demo accounts until your strategy is solid.
+    - Emotion Control: Losses are normal self-discipline is essential.
+    - Expectations: Set realistic goals to avoid frustration and burnout.
+   
+### 3. When Can You Trade Forex?
+
+  * Forex Trading Sessions
+    - Forex runs 24/5 – divided into 4 major sessions: Sydney, Tokyo, London, New York.
+    - Liquidity & volatility vary by session; best during overlaps.
+    - London session = most active (~43% of global FX turnover).
+    - Tokyo session = quieter, focused on JPY, AUD, NZD pairs.
+    - New York session = highly influenced by USD news & data releases; overlaps London for peak activity.
+    - Sydney session = smallest activity, mostly sets the tone for Asia.
+    - London–New York overlap (08:00–12:00 EST) = highest volatility & trading volume (~70% of daily).
+    - Best times to trade = session overlaps (London–Tokyo, London–New York).
+    - Worst times to trade = late Fridays, holidays, and single-session low liquidity periods.
+    - Session timing shifts slightly due to daylight saving time.
+
+  * When Can You Trade Forex: Tokyo Session
+    - Trading Hours: 00:00–09:00 GMT (~9 AM–6 PM Tokyo time).
+    - Global Share: ~20% of total forex volume.
+    - Major Hubs: Tokyo, Singapore, Hong Kong.
+    - Active Pairs: JPY crosses, AUD/USD, NZD/USD, EUR/JPY.
+    - Market Nature: Lower liquidity & volatility than London/New York.
+    - Typical Behavior: Consolidation or early breakout setups.
+    - Pip Ranges: Example averages – EUR/USD ~7, USD/JPY ~16, GBP/JPY ~20 per hour.
+    - Overlap: Tokyo–London overlap (~1 hour, around 03:00–04:00 AM ET) → slight boost in activity.
+
+  * When Can You Trade Forex: London Session
+    - Trading Hours: 08:00–17:00 GMT (~8 AM–5 PM London time).
+    - Volume Share: ~43% of daily forex turnover → the largest session.
+    - Market Overlaps:
+        - Morning: overlap with Tokyo.
+        - Afternoon: overlap with New York (most liquid time).
+    - Liquidity & Volatility:
+        - Highest of all sessions → tight spreads, fast execution.
+        - Most daily trends start during London.
+        - Midday slowdown (lunch), possible reversals near close.
+    - Average Pip Ranges: EUR/USD ~10, GBP/USD ~13, USD/JPY ~19, EUR/JPY ~22, GBP/JPY ~22, etc.
+    - Best Pairs to Trade: EUR/USD, GBP/USD, USD/JPY, USD/CHF, plus volatile crosses (EUR/JPY, GBP/JPY).
+    - Trading Style Fit:
+        - Great for traders who like high volatility, trends, and news-driven moves.
+        - May be risky for those preferring calmer markets.
+     
+* When Can You Trade Forex: New York Session
+    - Runs from 8:00 AM – 5:00 PM (New York time) → 13:00–22:00 GMT.
+    - Accounts for about 17% of daily forex turnover.
+    - Most active when it overlaps with the London session (8 AM – 12 PM EST).
+    - Liquidity drops after 4 PM EST (U.S. stock market close).
+    - High in the morning, quieter in the afternoon.
+    - Friday afternoons often see low volume and trend reversals as traders close positions before the weekend.
+    - Typical Pip Movement (per hour average):
+       - EUR/USD: ~16 pips
+       - GBP/USD: ~20 pips
+       - USD/JPY: ~23 pips
+       - GBP/JPY: ~31 pips
+       - AUD/USD: ~13 pips
+       - USD/CAD: ~17 pips
+    - Best Pairs to Trade:
+       - USD-based majors (EUR/USD, GBP/USD, USD/JPY, USD/CAD, USD/CHF).
+       - Active crosses like EUR/JPY, GBP/JPY.
+    - Driving Factors:
+       - U.S. economic data releases (NFP, Fed announcements, GDP, inflation).
+       - Overlap with Europe provides strong volatility.
+
+ * Best Times of Day to Trade Forex
+    - Definition: Overlap happens when two trading sessions are open at the same time, creating more trading activity.
+    - Tokyo–London Overlap:
+      - Time: 3:00–4:00 AM ET (about 1 hour).
+      - Features: Moderate liquidity, active JPY & EUR pairs.
+    - London–New York Overlap:
+      - Time: 8:00 AM–12:00 PM ET (about 4 hours).
+      - Features: Most liquid and volatile period of the day, tight spreads, strong trends.
+      - Best pairs: EUR/USD, GBP/USD, USD/CHF, USD/CAD, USD/JPY.
+    - Why Important:
+       - Higher liquidity → tighter spreads & faster executions.
+       - More volatility → strong opportunities but also higher risk.
+       - Overlaps often coincide with major news releases.
+    - Trading Strategies:
+        - Scalping during high liquidity.
+        - Breakouts & trend trades as sessions switch.
+        - News trading around economic announcements.
+    - Risks:
+        - High volatility = potential large losses.
+        - Overtrading temptation.
+        - Need strict risk management.
+      
+  * Best Days of the Week to Trade Forex
+    - Best Trading Days:
+      - Wednesday and Thursday → highest volatility and widest pip ranges.
+      - Tuesday also active, better than Monday/Friday.
+    - Worst Trading Days:
+      - Monday → slow, narrow ranges (market still warming up).
+      - Friday afternoon → low liquidity as traders close positions before weekend.
+    - Friday Behavior:
+      - Active in the morning (until ~12 PM EST).
+      - Activity drops sharply in the afternoon.
+    - Volatility Pattern: Market activity generally builds from Monday → peaks midweek → declines Friday.
+    - Practical Takeaway:
+      - Focus on Tuesday–Thursday for most opportunities.
+      - Trade Friday morning only, avoid Friday afternoon.
+      - Skip Monday if you want strong price action.
+
+### 4. Who Trades Forex?
+
+
+### 5. Why Trade Forex?
+
+### 6. Margin Trading 101: Understand How Your Margin Account Works
