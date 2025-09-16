@@ -326,17 +326,24 @@ ____
        - Bottom: Retail traders: Individuals trading via online brokers, often using high leverage, giving them market access with small capital.
   - 4. Democratization of Forex: Thanks to the rise of the internet and retail brokers, individual traders now enjoy access previously reserved for institutions, enabling participation with small capital and high leverage.
 * Forex Market Players:
-  - Forex participants range from powerful institutions to retail traders—it’s a diverse battlefield
+  - Forex participants range from powerful institutions to retail traders, it’s a diverse battlefield
   - Central Banks: Manage national monetary policy; intervene to steer currencies
   - Super Banks (Commercial Banks / Interbank Market): Major liquidity providers; price setters for large institutional orders
   - Electronic Liquidity Providers (ELPs): HFT-based market makers ensuring tight spreads and constant liquidity
   - Large Commercial Companies: FX users for real economic needs, indirectly influencing market flows
   - Speculators: Drive most volume; provide liquidity, volatility, and assist in price discovery
 * Know Your Retail Forex History!
-  - Origins (1970s)
-  - The Internet Era (1990s)
-  - Boom Years (2000s)
-  - Regulation & Protection
+  - Origins (1970s):
+    - After the Bretton Woods system dismantled in 1971, currencies began floating, paving the way for the modern FX market.
+    - Initially, FX trading was an exclusive domain reserved for banks, hedge funds, and large corporations, individual traders had no access due to high capital requirements, manual processes, and lack of tech infrastructure.
+  - The Internet Era (1990s):
+    - With the rise of the internet, banks launched live-quote platforms while the first retail forex brokers emerged, enabling individuals to trade with position sizes as low as 1,000 units.
+    - Trading platforms proliferated, even though early platforms were slow and unreliable, this period marked the true democratization of forex.
+  - Boom Years (2000s):
+    - The 2000s saw a surge in online forex brokers, offering demo accounts, educational tools, and attractive leverage.
+    - Platforms like MetaTrader 4 (launched in 2005) revolutionized retail trading with features like charting, technical analysis, and automated trading using Expert Advisors.
+    - This competition led to tighter spreads, lower transaction costs, and broader product offerings across currency pairs.
+  - Regulation & Protection: As retail FX matured, regulators stepped in—CFTC (U.S.), FCA (UK), ASIC (Australia), ESMA (EU)—imposing rules like leverage limits, negative-balance protection, and mandatory segregation of client funds.
   - Modern Era (2010s–Present):
     - Widespread access via mobile trading apps, algorithmic strategies, and social and copy trading features.
     - Trading platforms now provide advanced tools, integration with CFDs, and global social trading communities.
