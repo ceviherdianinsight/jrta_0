@@ -217,7 +217,9 @@ ____
     - Practice First: Use demo accounts until your strategy is solid.
     - Emotion Control: Losses are normal self-discipline is essential.
     - Expectations: Set realistic goals to avoid frustration and burnout.
-
+    
+<a name="id"></a>
+[**Back to HOME**](#100)
 
 
 <a id="3"></a>
@@ -320,6 +322,9 @@ ____
       - Trade Friday morning only, avoid Friday afternoon.
       - Skip Monday if you want strong price action.
 
+<a name="id"></a>
+[**Back to HOME**](#100)
+
 
 <a id="4"></a>
 ### 4. Who Trades Forex?
@@ -389,7 +394,9 @@ ____
   - Analyst Influence
     - Equity analysts may push biased opinions due to broker–company relationships in the stock market
     - In forex, analysts mostly observe rather than drive price movements
-    
+
+<a name="id"></a>
+[**Back to HOME**](#100)
 
 <a id="6"></a>
 ### 6. Margin Trading 101: Understand How Your Margin Account Works
