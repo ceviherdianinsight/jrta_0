@@ -432,4 +432,7 @@ ____
   - Understand margin requirements and metrics before placing any trades.
   - Use stop-loss or trailing stop orders to limit downside exposure.
   - Build positions gradually (“scaling in”), rather than in one large entry.
-  - Most importantly, study margin mechanisms and risk management, don’t trade blindly. 
+  - Most importantly, study margin mechanisms and risk management, don’t trade blindly.
+ 
+<a name="id"></a>
+[**Back to HOME**](#100)
