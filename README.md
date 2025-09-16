@@ -468,6 +468,10 @@ ____
     - Margin is not charged, it simply reserves funds to cover potential losses.
     - Margin requirements differ across brokers and pairs, so always check.
     - Margin gives leverage, but also amplifies risks; insufficient margin may trigger margin call or stop-out.
- 
+
+* What is Used Margin?
+
+
+
 <a name="id"></a>
 [**Back to HOME**](#100)
