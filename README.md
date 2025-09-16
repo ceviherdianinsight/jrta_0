@@ -363,6 +363,9 @@ ____
     - Trading platforms now provide advanced tools, integration with CFDs, and global social trading communities.
   - Summary: Retail forex has evolved from institution-only trading in the 1970s to a global, regulated, technology-driven marketplace where individuals can participate with high leverage, powerful platforms, and protections afforded by modern regulation.
 
+<a name="id"></a>
+[**Back to HOME**](#100)
+
 <a id="5"></a>
 ### 5. Why Trade Forex?
 
