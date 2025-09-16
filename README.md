@@ -315,6 +315,15 @@ ____
 <a id="4"></a>
 ### 4. Who Trades Forex?
 
+* Forex Market Structure:
+  - 1. Forex Is a Decentralized Market:
+       - Unlike the centralized structure of stock exchanges (e.g. NYSE), Forex operates without a single exchange or central price setter, meaning there’s no uniform price for currency pairs at any moment.
+       - Quotes vary across different dealers, fostering competition and better pricing for traders.
+  - 2. 
+* Forex Market Players
+* Know Your Retail Forex History!
+
+
 
 ### 5. Why Trade Forex?
 
