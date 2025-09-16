@@ -439,6 +439,8 @@ ____
     - Overnight swap/rollover fees are charged or credited
   - Open positions ≠ affect Balance: Unrealized P/L doesn’t impact Balance until the trade is closed.
   - Swap/Rollover fee: when you keep a position overnight, your broker may deduct or credit a small interest fee which adjusts your Balance accordingly.
+* What is Unrealized P/L and Floating P/L?
+  - 
  
 <a name="id"></a>
 [**Back to HOME**](#100)
