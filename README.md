@@ -5,6 +5,8 @@
 ### [1-What is Forex?](#1)
 ### [4-Who Trades Forex?](#4)
 
+____
+
 
 <a id="1"></a>
 ### 1. What is Forex?
