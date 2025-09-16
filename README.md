@@ -3,6 +3,8 @@
 ## Level_1:
 
 ### [1-What is Forex?](#1)
+### [2. How Do You Trade Forex?](#2)
+### [3. When Can You Trade Forex?](#3)
 ### [4-Who Trades Forex?](#4)
 
 ____
@@ -61,6 +63,7 @@ ____
       - Spread Betting – betting on price movements (available in limited regions like UK).
    
 
+<a id="2"></a>
 ### 2. How Do You Trade Forex?
 
 * How to Make Money Trading Forex
@@ -205,7 +208,10 @@ ____
     - Practice First: Use demo accounts until your strategy is solid.
     - Emotion Control: Losses are normal self-discipline is essential.
     - Expectations: Set realistic goals to avoid frustration and burnout.
-   
+
+
+
+<a id="3"></a>
 ### 3. When Can You Trade Forex?
 
   * Forex Trading Sessions
