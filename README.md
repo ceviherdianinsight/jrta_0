@@ -7,6 +7,8 @@
 ### [3. When Can You Trade Forex?](#3)
 ### [4-Who Trades Forex?](#4)
 ### [5-Why Trade Forex?](#5)
+### [6-Margin Trading 101: Understand How Your Margin Account Works](#6)
+
 
 
 ____
@@ -351,6 +353,7 @@ ____
     - Trading platforms now provide advanced tools, integration with CFDs, and global social trading communities.
   - Summary: Retail forex has evolved from institution-only trading in the 1970s to a global, regulated, technology-driven marketplace where individuals can participate with high leverage, powerful platforms, and protections afforded by modern regulation.
 
+<a id="5"></a>
 ### 5. Why Trade Forex?
 
 * Learn What Makes FX Trading Unique
@@ -362,7 +365,26 @@ ____
   - Easy market access: Low entry threshold, easy onboarding
   - Two-way trading flexibility: Make profits whether currency rates rise or fall
     
-* Forex vs. Stocks
-* Forex vs. Futures
+* Forex vs. Stocks:
+  - Market Hours & Flexibility
+    - Forex trades 24/5 (Sunday evening to Friday evening in EST), across global sessions—Asia, Europe, U.S.
+    - Stock markets operate within fixed hours (e.g. U.S. exchanges: 9:30 am–4:00 pm EST)
+  - Transaction Costs
+    - Forex brokers usually charge no commission, earning via tight, transparent spreads.
+    - While some stock brokers now offer zero commission, commissions and fees remain more common in stock trading
+  - Liquidity & Volume
+    - Forex sees massive daily volume, averaging around $6–7 trillion, far exceeding stock market volumes
+    - The high liquidity in forex ensures tighter spreads and better execution
+  - Short Selling
+    - Forex allows seamless short-selling, as every trade inherently involves selling one currency and buying another
+    - In contrast, stock markets often impose regulations like uptick rules and restrictions on short positions
+  - Market Manipulation & Influence
+    - The vast size and decentralization of the forex market make it nearly impossible for any single entity to manipulate it
+    - Stock markets are more vulnerable to influence from analysts, brokers, or large institutional trades
+  - Analyst Influence
+    - Equity analysts may push biased opinions due to broker–company relationships in the stock market
+    - In forex, analysts mostly observe rather than drive price movements
+    
 
+<a id="6"></a>
 ### 6. Margin Trading 101: Understand How Your Margin Account Works
