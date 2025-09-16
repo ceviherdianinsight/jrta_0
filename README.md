@@ -431,6 +431,14 @@ ____
     - Use stop-loss or trailing stop orders to limit downside exposure.
     - Build positions gradually (“scaling in”), rather than in one large entry.
     - Most importantly, study margin mechanisms and risk management, don’t trade blindly.
+* What is Account Balance?
+  - Balance = your cash in the trading account — unaffected by open trades. It’s the starting point of your trading capital.
+  - It only changes in three ways:
+    - You deposit (or withdraw) funds
+    - You close a trade (realized profit or loss is applied)
+    - Overnight swap/rollover fees are charged or credited
+  - Open positions ≠ affect Balance: Unrealized P/L doesn’t impact Balance until the trade is closed.
+  - Swap/Rollover fee: when you keep a position overnight, your broker may deduct or credit a small interest fee which adjusts your Balance accordingly.
  
 <a name="id"></a>
 [**Back to HOME**](#100)
