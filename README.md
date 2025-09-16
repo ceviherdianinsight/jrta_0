@@ -6,6 +6,8 @@
 ### [2. How Do You Trade Forex?](#2)
 ### [3. When Can You Trade Forex?](#3)
 ### [4-Who Trades Forex?](#4)
+### [5-Why Trade Forex?](#5)
+
 
 ____
 
@@ -349,8 +351,18 @@ ____
     - Trading platforms now provide advanced tools, integration with CFDs, and global social trading communities.
   - Summary: Retail forex has evolved from institution-only trading in the 1970s to a global, regulated, technology-driven marketplace where individuals can participate with high leverage, powerful platforms, and protections afforded by modern regulation.
 
-
-
 ### 5. Why Trade Forex?
+
+* Learn What Makes FX Trading Unique
+  - Flexible lot sizes: Tailor trade size to risk and capital
+  - Very low transaction cost: Save on trading fees, tighter spreads
+  - Round-the-clock access: Trade anytime that suits your schedule
+  - High market liquidity: Execute large orders without impacting price
+  - High leverage: Control larger trades with smaller capital
+  - Easy market access: Low entry threshold, easy onboarding
+  - Two-way trading flexibility: Make profits whether currency rates rise or fall
+    
+* Forex vs. Stocks
+* Forex vs. Futures
 
 ### 6. Margin Trading 101: Understand How Your Margin Account Works
