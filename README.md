@@ -482,11 +482,10 @@ ____
       - 1 mini-lot USD/JPY (margin requirement: 4%) → Required Margin = $400
       - 1 mini-lot USD/CHF (margin requirement: 3%) → Required Margin = $300
     - Used Margin = $700 total is locked and unavailable. 
-
-* Key Insights:
-  - Used Margin is not a fee, it's collateral to secure your positions.
-  - It increases with each new open trade (aggregate of required margins).
-  - Check your broker’s margin requirements per pair to estimate Used Margin—knowing this helps manage risk and avoid margin calls.
+  - Key Insights:
+    - Used Margin is not a fee, it's collateral to secure your positions.
+    - It increases with each new open trade (aggregate of required margins).
+    - Check your broker’s margin requirements per pair to estimate Used Margin—knowing this helps manage risk and avoid margin calls.
  
   
 <a name="id"></a>
