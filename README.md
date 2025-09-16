@@ -448,7 +448,26 @@ ____
   - Realized P/L affects your Balance immediately upon trade closure.
   - Keep an eye on floating P/L—it helps make strategic decisions about whether to exit or hold trades.
 
-  
+* What is Margin?
+  - What Is Margin?
+    - Margin is a portion of your account balance set aside by your broker as collateral to open and maintain a trade. It’s not a fee or cost.
+    - Enables you to trade larger positions than your cash balance by acting as a "down payment".
+  - Margin Requirement:
+    - Expressed as a percentage of the full notional value of your position, e.g., 2%, 5%, or 10%.
+    - Varies by currency pair and broker; e.g., EUR/USD = 2%, GBP/USD = 5%, USD/JPY = 4%, EUR/AUD = 3%.
+  - Required Margin:
+    - The actual amount of your funds locked up (based on the Margin Requirement) when opening a trade. Also called initial margin, entry margin, deposit margin.
+    - Example: To open a $100,000 EUR/USD position with 2% margin, you need $2,000 in Required Margin.
+  - How to Calculate Required Margin:
+    - Required Margin = Notional Value × Margin Requirement
+    - Required Margin = Notional Value × Margin Requirement × Exchange Rate
+  - Why Margin Exists:
+    - Margin allows trading with greater buying power (leverage) while only risking a small portion of your capital.
+    - Example: 100:1 leverage → $1,000 margin controls $100,000 position.
+  - Key Insights:
+    - Margin is not charged, it simply reserves funds to cover potential losses.
+    - Margin requirements differ across brokers and pairs, so always check.
+    - Margin gives leverage, but also amplifies risks; insufficient margin may trigger margin call or stop-out.
  
 <a name="id"></a>
 [**Back to HOME**](#100)
