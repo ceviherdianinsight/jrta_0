@@ -470,8 +470,24 @@ ____
     - Margin gives leverage, but also amplifies risks; insufficient margin may trigger margin call or stop-out.
 
 * What is Used Margin?
+  - Definition
+    - Used Margin (also known as Margin Used or Total Margin) is the total amount of margin currently locked up to maintain all open positions in your account.
+    - Used Margin = Sum of Required Margin across all open trades. 
+  - Purpose: This portion of your funds cannot be used to open new trades—it's reserved as collateral to keep your existing trades active. 
+  - How to Calculate:
+    - Required Margin is the margin allocated per trade (based on notional value and broker's margin requirement).
+    - Used Margin is simply the total of those required margins
+  - Example
+    - Suppose you deposit $1,000 and open:
+      - 1 mini-lot USD/JPY (margin requirement: 4%) → Required Margin = $400
+      - 1 mini-lot USD/CHF (margin requirement: 3%) → Required Margin = $300
+    - Used Margin = $700 total is locked and unavailable. 
 
-
-
+* Key Insights:
+  - Used Margin is not a fee, it's collateral to secure your positions.
+  - It increases with each new open trade (aggregate of required margins).
+  - Check your broker’s margin requirements per pair to estimate Used Margin—knowing this helps manage risk and avoid margin calls.
+ 
+  
 <a name="id"></a>
 [**Back to HOME**](#100)
