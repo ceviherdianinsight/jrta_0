@@ -303,7 +303,7 @@
 
 
 <a id="4"></a>
-### ** 4. Who Trades Forex?**
+### 4. Who Trades Forex?
 
 
 ### 5. Why Trade Forex?
