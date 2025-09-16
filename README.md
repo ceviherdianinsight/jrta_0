@@ -494,6 +494,18 @@ ____
   - Equity gives a real-time snapshot of your account’s value.
   - Balance shows only closed trades & deposits/withdrawals → does not change with open trades.
   - Equity is critical for margin calculations, margin calls, and risk management.
+
+* What is Free Margin?
+  - Free Margin = Equity − Used Margin.
+  - It represents the funds available to open new trades or absorb losses.
+  - If no trades are open → Free Margin = Equity = Balance.
+  - With open trades → Free Margin changes as floating P/L changes.
+  - Positive Free Margin = you can still open new trades.
+  - Zero or negative Free Margin = no new trades allowed; margin call or stop-out risk.
+ 
+* What is Margin Level?
+ - Margin Level is the ratio of Equity to Used Margin, expressed as a percentage. It indicates how much of your equity is being used as margin.
+
   
 <a name="id"></a>
 [**Back to HOME**](#100)
