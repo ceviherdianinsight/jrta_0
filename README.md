@@ -1,3 +1,6 @@
+<a id="100"></a>
+**HOME**
+
 # jrta_0
 
 ## Level_0:
@@ -65,7 +68,9 @@ ____
       - Currency ETFs – funds traded on stock exchanges giving currency exposure.
       - Forex CFDs – contracts to speculate on price moves without owning currencies.
       - Spread Betting – betting on price movements (available in limited regions like UK).
-   
+
+<a name="id"></a>
+[**Back to HOME**](#100)
 
 <a id="2"></a>
 ### 2. How Do You Trade Forex?
