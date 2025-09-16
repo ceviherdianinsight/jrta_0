@@ -324,6 +324,7 @@ ____
        - Top: Interbank market (major global banks): Execute large-volume trades (millions/billions), trade bilaterally or via electronic brokers (EBS, Refinitiv). These platforms act as primary price discovery engines.
        - Middle: Hedge funds, corporations, retail ECNs, market makers: Access interbank rates via commercial banks, but at slightly higher spreads due to weaker credit access.
        - Bottom: Retail traders: Individuals trading via online brokers, often using high leverage, giving them market access with small capital.
+  - 4. Democratization of Forex: Thanks to the rise of the internet and retail brokers, individual traders now enjoy access previously reserved for institutions, enabling participation with small capital and high leverage.
 * Forex Market Players
 * Know Your Retail Forex History!
 
