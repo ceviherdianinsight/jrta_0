@@ -403,3 +403,33 @@ ____
 
 <a id="6"></a>
 ### 6. Margin Trading 101: Understand How Your Margin Account Works
+
+* What Is Margin Trading?
+  - Margin trading lets you enter positions larger than your account balance, using borrowed funds from your broker, enabling greater exposure with limited capital.
+  - This process amplifies both potential profits and losses. 
+* What Is Margin?
+  - Margin is a portion of your account balance reserved as collateral to open and maintain a trade, it is not a fee
+  - Once you close a position, the margin is released and becomes available again. 
+* Margin Requirement & Required Margin
+  - Margin Requirement = the percentage of the total position size needed to open a trade (e.g. 2%, 5%).
+  - Required Margin = the actual amount in your account locked up for that position.
+  - Typically expressed as:
+    - Required Margin = Position Notional × Margin Requirement
+    - If base currency ≠ account currency, convert via exchange rate. 
+* Key Account Metrics
+  - Balance: your cash before floating P/L.
+  - Used Margin: total required margin tied up in open positions.
+  - Free Margin: equity available to open new trades = Equity − Used Margin.
+  - Equity: current account value including floating P/L = Balance + Unrealized P/L.
+  - Margin Level: ratio of Equity to Used Margin (%) = (Equity ÷ Used Margin) × 100. 
+* Margin Call & Stop-Out
+  - Margin Call: triggered when your Margin Level falls to the broker’s warning threshold (e.g. 100%); you can’t open new positions.
+  - Stop-Out Level: when Margin Level falls further (e.g. 50%), the broker starts automatically closing positions, typically those at largest loss, until Margin Level recovers.
+* Leverage & Risk
+  - Leverage lets you control a large position with small capital. e.g. 100:1 leverage requires only 1% margin.
+  - High leverage magnifies profits—and losses. One wrong move can wipe out your account. 
+* How to Avoid Margin Call
+  - Understand margin requirements and metrics before placing any trades.
+  - Use stop-loss or trailing stop orders to limit downside exposure.
+  - Build positions gradually (“scaling in”), rather than in one large entry.
+  - Most importantly, study margin mechanisms and risk management, don’t trade blindly. 
