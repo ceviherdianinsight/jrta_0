@@ -441,6 +441,12 @@ ____
   - Swap/Rollover fee: when you keep a position overnight, your broker may deduct or credit a small interest fee which adjusts your Balance accordingly.
 
 * What is Unrealized P/L and Floating P/L?
+  - Unrealized P/L (also known as Floating P/L) is the paper profit or loss on your open trades, i.e. what you would earn or lose if all positions were closed right now. It fluctuates in real time with market prices.
+  - Realized P/L only occurs when a trade is closed—this is when profit or loss is locked in and reflected in your account balance.
+  - Floating P/L = Position Size × (Current Price – Entry Price)
+  - Floating P/L is not guaranteed: it can flip from profit to loss if market moves before you close the position.
+  - Realized P/L affects your Balance immediately upon trade closure.
+  - Keep an eye on floating P/L—it helps make strategic decisions about whether to exit or hold trades.
 
   
  
