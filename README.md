@@ -1,7 +1,5 @@
 # jrta_0
 
-## learnforex_preschool
-
 ## Level_1
 
 ### 1. What is Forex?
