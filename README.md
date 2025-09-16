@@ -319,7 +319,11 @@ ____
   - 1. Forex Is a Decentralized Market:
        - Unlike the centralized structure of stock exchanges (e.g. NYSE), Forex operates without a single exchange or central price setter, meaning there’s no uniform price for currency pairs at any moment.
        - Quotes vary across different dealers, fostering competition and better pricing for traders.
-  - 2. 
+  - 2. Competitive Environment Benefits Traders: Intense competition among currency dealers helps ensure that traders typically find competitive spreads and pricing.
+  - 3. The FX Ladder: A Tiered Participant Hierarchy:
+       - Top: Interbank market (major global banks): Execute large-volume trades (millions/billions), trade bilaterally or via electronic brokers (EBS, Refinitiv). These platforms act as primary price discovery engines.
+       - Middle: Hedge funds, corporations, retail ECNs, market makers: Access interbank rates via commercial banks, but at slightly higher spreads due to weaker credit access.
+       - Bottom: Retail traders: Individuals trading via online brokers, often using high leverage, giving them market access with small capital.
 * Forex Market Players
 * Know Your Retail Forex History!
 
