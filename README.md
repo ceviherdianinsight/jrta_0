@@ -488,12 +488,12 @@ ____
     - Check your broker’s margin requirements per pair to estimate Used Margin—knowing this helps manage risk and avoid margin calls.
 
  * What is Equity?
-  - Equity = Balance + Floating P/L (unrealized profit or loss).
-  - When no trades are open, Equity = Balance.
-  - When trades are open, Equity fluctuates as market prices move.
-  - Equity gives a real-time snapshot of your account’s value.
-  - Balance shows only closed trades & deposits/withdrawals → does not change with open trades.
-  - Equity is critical for margin calculations, margin calls, and risk management.
+   - Equity = Balance + Floating P/L (unrealized profit or loss).
+   - When no trades are open, Equity = Balance.
+   - When trades are open, Equity fluctuates as market prices move.
+   - Equity gives a real-time snapshot of your account’s value.
+   - Balance shows only closed trades & deposits/withdrawals → does not change with open trades.
+   - Equity is critical for margin calculations, margin calls, and risk management.
 
 * What is Free Margin?
   - Free Margin = Equity − Used Margin.
