@@ -519,9 +519,9 @@ ____
     - Margin Level = (1,000 ÷ 400) × 100% = 250% → trading allowed
   - If Margin Level falls to 100% or below, you’ll receive a margin call warning; you cannot open new trades.
 
-* Key Insights:
-  - Margin Level is your key risk meter, it tells you if your account can sustain current positions or if new trades are allowed.
-  - If Equity ≤ Used Margin, you'll hit a margin call and be restricted from opening new trades and possibly warned of impending stop-out.
+  - Key Insights:
+    - Margin Level is your key risk meter, it tells you if your account can sustain current positions or if new trades are allowed.
+    - If Equity ≤ Used Margin, you'll hit a margin call and be restricted from opening new trades and possibly warned of impending stop-out.
 
   
 <a name="id"></a>
