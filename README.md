@@ -524,15 +524,15 @@ ____
 
 
 * What is a Margin Call?
- - Margin Call Level = a specific Margin Level % threshold set by your broker.
- - When Margin Level ≤ Margin Call Level, a Margin Call event is triggered.
- - A Margin Call is just a warning, you cannot open new trades, but existing trades remain open.
- - Formula reminder: Margin Level = (Equity ÷ Used Margin) × 100%.
- - Example: If broker sets Margin Call Level at 100%:
-   - Equity falls to equal Used Margin → Margin Level = 100%.
-   - You get a Margin Call warning.
- - Different brokers set different levels (e.g. 100%, 150%). Always check broker rules.
- - Margin Call ≠ Stop Out → At Margin Call you’re warned; at Stop Out, broker starts closing trades.
+  - Margin Call Level = a specific Margin Level % threshold set by your broker.
+  - When Margin Level ≤ Margin Call Level, a Margin Call event is triggered.
+  - A Margin Call is just a warning, you cannot open new trades, but existing trades remain open.
+  - Formula reminder: Margin Level = (Equity ÷ Used Margin) × 100%.
+  - Example: If broker sets Margin Call Level at 100%:
+    - Equity falls to equal Used Margin → Margin Level = 100%.
+    - You get a Margin Call warning.
+  - Different brokers set different levels (e.g. 100%, 150%). Always check broker rules.
+  - Margin Call ≠ Stop Out → At Margin Call you’re warned; at Stop Out, broker starts closing trades.
 
   
 <a name="id"></a>
