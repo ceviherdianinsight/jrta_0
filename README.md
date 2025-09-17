@@ -534,6 +534,22 @@ ____
   - Different brokers set different levels (e.g. 100%, 150%). Always check broker rules.
   - Margin Call ≠ Stop Out → At Margin Call you’re warned; at Stop Out, broker starts closing trades.
 
+* What is a Stop Out Level?
+  - The Stop Out Level is a specific Margin Level percentage set by your broker at which one or more open positions are automatically liquidated (closed) to prevent the account from going negative.
+  - In practice, if Equity ≤ Stop Out Level threshold × Used Margin, the broker will start closing trades, typically beginning with the losing positions, until the Margin Level rises back above that threshold.
+  - This process is automatic and non-negotiable, once initiated, you cannot stop it.
+  - Example: Stop Out at 20%
+    - Initial account: Balance $1,000, one open position requiring Used Margin $200, no floating P/L → Equity = $1,000 → Margin Level = 500% (safe zone).
+    - A trade deepens into a loss of $960 → Equity falls to $40. Margin Level = ( $40 ÷ $200 ) × 100% = 20% → Trigger: Stop Out activated.
+    - Broker begins closing positions, starting with the largest loss—until Margin Level is above 20%. Result: all open positions closed, Balance = $40, Equity = $40, Free Margin = $40.
+  - Important Insights:
+    - A Stop Out is not a warning, it’s the final action. You have no control once it starts.
+    - Some brokers don’t distinguish between Margin Call and Stop Out, they may skip warning and proceed straight to liquidation.
+    - Always check your broker’s Margin Call and Stop Out policies, since thresholds vary widely (e.g. 50%, 20%, or no separate Stop Out).
+    - Knowing these levels helps you manage leverage and avoid forced liquidation during market volatility.
+
+* Margin Jargon Cheat Sheet
+
   
 <a name="id"></a>
 [**Back to HOME**](#100)
