@@ -502,9 +502,24 @@ ____
   - With open trades → Free Margin changes as floating P/L changes.
   - Positive Free Margin = you can still open new trades.
   - Zero or negative Free Margin = no new trades allowed; margin call or stop-out risk.
+
  
 * What is Margin Level?
- - Margin Level is the ratio of Equity to Used Margin, expressed as a percentage. It indicates how much of your equity is being used as margin.
+  - Margin Level is the ratio of Equity to Used Margin, expressed as a percentage. It indicates how much of your equity is being used as margin.
+  - Margin Level (%) = (Equity ÷ Used Margin) × 100%
+  - When no trades are open, Margin Level shows zero percent, as there’s no Used Margin.
+  - Higher Margin Level → more Free Margin available → safer zone for trading.
+  - Lower Margin Level → less Free Margin + higher risk of margin call or stop out.
+  - Most brokers require a Margin Level above 100% to allow new trades; if Equity ≤ Used Margin, you’ll be blocked from opening new positions.
+  - Example Scenario:
+    - Balance: $1,000
+    - Open USD/JPY mini lot → Required Margin = $400
+    - Floating P/L = $0 → Equity = $1,000
+    - Used Margin = $400
+    - Margin Level = (1,000 ÷ 400) × 100% = 250% → trading allowed
+  - If Margin Level falls to 100% or below, you’ll receive a margin call warning; you cannot open new trades.
+
+
 
   
 <a name="id"></a>
