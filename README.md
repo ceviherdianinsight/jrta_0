@@ -549,6 +549,18 @@ ____
     - Knowing these levels helps you manage leverage and avoid forced liquidation during market volatility.
 
 * Margin Jargon Cheat Sheet
+    - Margin: Collateral (not a fee) that your broker locks from your balance to open and maintain a position.
+    - Leverage: Ability to control a large position using a much smaller amount of your own funds. A margin requirement of 2% equates to 50:1 leverage.
+    - Unrealized P/L (Floating P/L): Current profit or loss in open trades—not yet applied to your account balance.
+    - Balance: Total cash in your account, reflecting closed trades, deposits, and withdrawals but ignoring open positions.
+    - Margin Requirement (Per Position): The percentage of a position’s notional value required to open a trade (e.g. EUR/USD = 2%, GBP/USD = 5%).
+    - Required Margin: Actual funds reserved per trade based on the margin requirement. This amount is locked until the position is closed.
+    - Used Margin: Aggregate of all Required Margins across open trades—capital currently locked in active positions.
+    - Equity: Real-time account value = Balance + Floating Profit (or Loss).
+    - Free Margin: Funds available to open new trades = Equity − Used Margin.
+    - Margin Level: Ratio (%) of Equity to Used Margin = (Equity ÷ Used Margin) × 100%.
+    - Margin Call Level: Broker defined threshold (e.g. 100%) at which you can no longer open new trades—a warning but not automatic closure.
+    - Stop Out Level: Margin Level (%) at which the broker starts automatically liquidating positions to prevent negative balances.
 
   
 <a name="id"></a>
