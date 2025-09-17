@@ -565,8 +565,8 @@ ____
 * How to Avoid a Margin Call
     - Understand What a Margin Call Is: A margin call occurs when your Margin Level falls below your broker’s Margin Call Level, triggering a warning. This is not an automatic liquidation, but you won't be able to open new trades.
     - Check Margin Requirements Before Trading:
-      - Pending orders don’t use margin until filled, once triggered, they affect your Free Margin and can push you toward margin call if not monitored.
       - Review margin requirements for each currency pair and potential position size before placing any orders, including pending ones. 
+      - Pending orders don’t use margin until filled, once triggered, they affect your Free Margin and can push you toward margin call if not monitored.
     - Use Stop-loss Orders or Trailing Stops: Always use stop-loss or trailing stop orders to limit downside risk and prevent excessive floating losses that may erode your Equity and Free Margin.
     - Scale In Slowly: Instead of entering one large position at once, scale into trades gradually. Start with smaller size and add to winning positions over time to reduce exposure and risk.
     - Prioritize Risk Management: Focus on understanding risk metrics, Margin Level, Equity, Free Margin, Used Margin—rather than aggressively chasing profits. Good risk management prevents margin call shocks.
