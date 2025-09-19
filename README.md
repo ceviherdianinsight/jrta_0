@@ -3,19 +3,19 @@
 
 ## Level_0:
 
-### [1-What is Forex?](#1)
-### [2. How Do You Trade Forex?](#2)
-### [3. When Can You Trade Forex?](#3)
-### [4-Who Trades Forex?](#4)
-### [5-Why Trade Forex?](#5)
-### [6-Margin Trading 101: Understand How Your Margin Account Works](#6)
+[1-What is Forex?](#1)
+[2. How Do You Trade Forex?](#2)
+[3. When Can You Trade Forex?](#3)
+[4-Who Trades Forex?](#4)
+[5-Why Trade Forex?](#5)
+[6-Margin Trading 101: Understand How Your Margin Account Works](#6)
 
 
 ____
 
 
 <a id="1"></a>
-### 1. What is Forex?
+#### 1. What is Forex?
 
 * What is Forex
   - Forex = foreign exchange, the global market for trading currencies.
