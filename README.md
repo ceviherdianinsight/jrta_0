@@ -75,7 +75,7 @@ ____
 [**Back to HOME**](#100)
 
 <a id="2"></a>
-### 2. How Do You Trade Forex?
+#### 2. How Do You Trade Forex?
 
 * How to Make Money Trading Forex
   - Forex trading = speculating on currency pairs (buy one, sell another).
@@ -225,7 +225,7 @@ ____
 
 
 <a id="3"></a>
-### 3. When Can You Trade Forex?
+#### 3. When Can You Trade Forex?
 
   * Forex Trading Sessions
     - Forex runs 24/5 – divided into 4 major sessions: Sydney, Tokyo, London, New York.
@@ -329,7 +329,7 @@ ____
 
 
 <a id="4"></a>
-### 4. Who Trades Forex?
+#### 4. Who Trades Forex?
 
 * Forex Market Structure:
   - 1. Forex Is a Decentralized Market:
@@ -369,7 +369,7 @@ ____
 [**Back to HOME**](#100)
 
 <a id="5"></a>
-### 5. Why Trade Forex?
+#### 5. Why Trade Forex?
 
 * Learn What Makes FX Trading Unique
   - Flexible lot sizes: Tailor trade size to risk and capital
@@ -404,7 +404,7 @@ ____
 [**Back to HOME**](#100)
 
 <a id="6"></a>
-### 6. Margin Trading 101: Understand How Your Margin Account Works
+#### 6. Margin Trading 101: Understand How Your Margin Account Works
 
 * What Is Margin Trading?
   - Margin trading lets you enter positions larger than your account balance, using borrowed funds from your broker, enabling greater exposure with limited capital.
